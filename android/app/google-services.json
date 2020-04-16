@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "517561473220",
+    "firebase_url": "https://feed-book-9c64b.firebaseio.com",
+    "project_id": "feed-book-9c64b",
+    "storage_bucket": "feed-book-9c64b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517561473220:android:98561a7fbce195d1cf9191",
+        "android_client_info": {
+          "package_name": "co.feedbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517561473220-hfsn2no9cuaibv0s84n1ni49epuj7vtk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCic0BxUF012NlqncFKpjMt1u7X3t54HeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517561473220-hfsn2no9cuaibv0s84n1ni49epuj7vtk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
